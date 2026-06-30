@@ -335,42 +335,44 @@ Day02/
 
 Include screenshots or photographs for each assignment.
 
-Example
-
-```
-Output_Images/
+Example:
+Output_Images
 
 PROJECT 1:OLED Digital Counter_
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cc4dfba4-fa37-4ad0-9bcc-1cf319e403e1" />
 
 PROJECT 2:Digital Visitor Counter_
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fa204adc-52f8-400f-850b-5d61928c1280" />
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/26beb2e7-d23a-43e7-af44-d6d1ffdee0ab" />
 
 PROJECT 3:OLED Menu System_
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5ec849d-0f51-4e04-95c6-6a511570fff4" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/70a4e4aa-cdbc-4352-bc77-3e088508e92c" />
 
 PROJECT 4:Digital Stopwatch_
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/38e376ff-82a6-42f2-af17-ee178fac1229" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d77299b0-d353-4dfd-8f06-fec423de2416" />
 
 PROJECT 5:Reaction Time Game 2.0_
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e6a807af-17e1-4c74-973e-8cdaa89207ef" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2a900c79-29e6-47b9-a763-2c973df5e786" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c6cf4dc2-bcc0-4228-8446-ab9b26d194ec" />
 
 PROJECT 6:Password Protected OLED System_
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/dcf1a72f-fe7e-458d-8e6b-7b53daa24766" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/92ea711a-a5ff-4e77-a527-6f6c1a43c033" />
 
 PROJECT 7:Day-End Evaluation_
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e196913c-9601-4b14-9aa7-353dfa9bef8c" />
 
-```
-
----
 
 # 📚 Concepts Covered
 
