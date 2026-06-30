@@ -449,8 +449,6 @@ Day02/
 
 **Akshaya**
 
-**eARgle Labs IoT Workshop – Day 2**
-
 Arduino | OLED Display | Embedded Systems | IoT
 
 ---
